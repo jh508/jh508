@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jh508
 - 👀 I’m interested in all kind of development, specifically Web development & Game development.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Unity 3D and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
