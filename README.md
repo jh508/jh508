@@ -16,7 +16,7 @@ From the moment I wrote my first line of code, I knew I had found my calling. Ar
 
 ## 🌐 Mastering the Art of the Web 🕸️
 
-The web is my canvas, and I paint with the vibrant palette of HTML, CSS, and JavaScript. I've traversed the realms of React, Angular, and Vue, crafting immersive user experiences that dance across screens of all sizes. With my command over APIs, RESTful architectures, and GraphQL, I forge connections that unite disparate systems and bring harmony to the digital ecosystem.
+The web is my canvas, and I paint with the vibrant palette of HTML, CSS, and JavaScript. I've traversed front-end and back-end web development, crafting immersive user experiences across screens of all sizes. With my command over APIs, and RESTful architectures I forge connections that unite disparate systems and bring harmony to the digital ecosystem.
 
 ## 🛠️ Building with the Tools of Tomorrow 🚀
 
