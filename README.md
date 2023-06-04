@@ -20,6 +20,6 @@ The web is my canvas, and I paint with the vibrant palette of HTML, CSS, and Jav
 
 ## 🛠️ Building with the Tools of Tomorrow 🚀
 
-In this ever-evolving techscape, I stay at the forefront of innovation. From the grand architectures of cloud computing with AWS and Azure to the microcosms of containerization with Docker and Kubernetes, I construct robust infrastructures that lay the foundations for tomorrow's digital landscapes. My toolkit includes Git, CI/CD pipelines, and DevOps practices, empowering me to engineer efficient workflows and deliver stellar results.
+In this ever-evolving techscape, I stay at the forefront of innovation. From the grand architectures of cloud computing with AWS to the microcosms of containerization with Docker, I construct robust infrastructures that lay the foundations for tomorrow's digital landscapes. My toolkit includes Git, CI/CD pipelines, and DevOps practices, empowering me to engineer efficient workflows and deliver stellar results.
 
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
